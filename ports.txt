@@ -1,0 +1,35 @@
+15 Netstat - Y ⚠️
+20/21 FTP - R 🟥 
+22 SSH - G 🟢
+23 Telnet - R 🟥 
+25 SMTPn - Y ⚠️
+50/51 IPSec - G 🟢
+53 DNS - Y ⚠️
+67/68 BOOTP - Y ⚠️
+69 TFTP - R 🟥 
+79/49 TACACS+ - R 🟥 
+80 HTTP - R 🟥
+88 Kerberos - G 🟢
+109/110 POP3 - R 🟥 
+111 Port Map - Y ⚠️
+119 NNTP - Y ⚠️
+123 NTP - Y ⚠️
+135-139 NetBIOS - R 🟥 
+143 IMAP - R 🟥 
+161 SNMP - Y ⚠️
+389 LDAP - Y ⚠️
+443 SSL - G 🟢
+445 SMB - R 🟥
+500 IPSec/ISAKMP - G 🟢
+520 RIP - Y ⚠️
+546/547 DHCP - Y ⚠️
+636 SLDAP - G 🟢
+1512 WINS - R 🟥 
+1701 L2TP - G 🟢
+1720 323 - Y ⚠️
+1723 PPTP - R 🟥 
+1812/13 RADIUS - G 🟢
+3389 RDP - Y ⚠️
+5004/5005 RTP - Y ⚠️
+5060 SIP - Y ⚠️ 
+5061 SIP-TLS - G 🟢
